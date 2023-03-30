@@ -1,0 +1,12 @@
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+microsd\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+microsd\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+microsd\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+microsd\list.o: ../Core/Inc/FreeRTOSConfig.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+microsd\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
